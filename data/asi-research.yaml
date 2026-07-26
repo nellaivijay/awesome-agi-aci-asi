@@ -446,6 +446,14 @@ subsections:
     links:
     - label: GitHub
       url: https://github.com/THUDM/AgentBench
+  - name: ClawBench
+    raw_name: '**ClawBench**'
+    description: Evaluates general-purpose AI agents on 153 everyday online tasks across 144 live production websites, with final-submission requests captured and blocked to prevent side effects.
+    links:
+    - label: Paper
+      url: https://arxiv.org/abs/2604.08523
+    - label: GitHub
+      url: https://github.com/TIGER-AI-Lab/ClawBench
   - name: Humanity's Last Exam
     raw_name: '**Humanity''s Last Exam**'
     description: Hardest possible questions crowdsourced from domain experts worldwide. Designed to be the final exam before
