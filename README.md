@@ -254,6 +254,7 @@ The AI field is in a remarkable transition period. Here's what the current lands
 | **BIG-Bench** | Collaborative benchmark of 204+ tasks probing LLM capabilities beyond existing benchmarks. | [GitHub](https://github.com/google/BIG-bench) |
 | **HumanEval / MBPP** | Code generation benchmarks measuring functional correctness of synthesized programs. | [HumanEval](https://github.com/openai/human-eval) |
 | **AgentBench** | Evaluates LLMs as autonomous agents across OS interaction, database ops, web browsing, and more. | [GitHub](https://github.com/THUDM/AgentBench) |
+| **ClawBench** | Evaluates browser agents on 283 everyday tasks across 163 live production websites using submission interception, replayable traces, and judge-based scoring. | [Paper](https://arxiv.org/abs/2604.08523), [GitHub](https://github.com/TIGER-AI-Lab/ClawBench), [Project](https://claw-bench.com/) |
 | **Humanity's Last Exam** | Hardest possible questions crowdsourced from domain experts worldwide. Designed to be the final exam before AGI. | [GitHub](https://github.com/centerforaisafety/hle) |
 | **METR (Model Evaluation & Threat Research)** | Evaluates frontier models for dangerous capabilities including autonomous replication and resource acquisition. | [metr.org](https://metr.org/) |
 | **FrontierMath** | Extremely challenging math benchmark: problems that take professional mathematicians hours/days. | [Paper](https://arxiv.org/abs/2411.04872) |
