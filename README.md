@@ -447,6 +447,7 @@ The AI field is in a remarkable transition period. Here's what the current lands
 |-|-|-|-|
 |[STORM](https://github.com/stanford-oval/storm)|![GitHub Repo stars](https://badgen.net/github/stars/stanford-oval/storm)|Stanford: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking. Writes Wikipedia-quality long-form articles autonomously.|[Paper](https://arxiv.org/abs/2402.14207). Expert-level knowledge synthesis agent.|
 |[AI Scientist](https://github.com/SakanaAI/AI-Scientist)|![GitHub Repo stars](https://badgen.net/github/stars/SakanaAI/AI-Scientist)|Fully autonomous scientific research pipeline: generates ideas, implements experiments, writes and reviews full academic papers.|[Paper](https://arxiv.org/abs/2408.06292). By Sakana AI. ASI-threshold capability.|
+|[Dr. Claw](https://github.com/OpenLAIR/dr-claw)|![GitHub Repo stars](https://badgen.net/github/stars/OpenLAIR/dr-claw)|Open-source, model-agnostic research workspace spanning literature survey, ideation, local experiments, analysis, and paper writing.|Supports Claude Code, Gemini CLI, Codex, and OpenRouter; bundles 100+ research skills.|
 |[gpt-researcher](https://github.com/assafelovic/gpt-researcher)|![GitHub Repo stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)|GPT-based autonomous agent for comprehensive online research on any topic. Searches, reads, and synthesizes long-form reports.|-|
 |[mem0](https://github.com/mem0ai/mem0)|![GitHub Repo stars](https://badgen.net/github/stars/mem0ai/mem0)|Universal memory layer for AI agents. Persistent long-term, episodic, and semantic memory across agent sessions.|52k+ stars. Key missing component between current agents and AGI.|
 |Autoresearch|N/A|Automates the scientific method with AI agents. Runs hundreds of ML experiments per night - experiment, results, modify code, repeat.|By Andrej Karpathy. ASI-threshold automation.
@@ -1200,4 +1201,3 @@ We're building the most comprehensive AGI/ASI resource on the internet -- and we
 ---
 
 > **If you find this resource useful, please give it a star!** It helps others discover it and motivates us to keep it updated as the field evolves at breakneck speed.
-
